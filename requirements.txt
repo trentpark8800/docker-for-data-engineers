@@ -1,0 +1,14 @@
+jupyter
+jupyterlab
+ipykernel
+notebook
+ipywidgets
+jupyter-contrib-nbextensions
+jupyter-nbextensions-configurator
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+black
+pyspark
