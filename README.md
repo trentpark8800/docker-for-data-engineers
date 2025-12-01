@@ -11,4 +11,4 @@ This project provides a ready-to-use Docker-based Spark development environment 
 - Rapid prototyping of Spark applications
 - Educational workshops and tutorials
 
-**Note:** This was used as part of a YouTube tutorial I created which you can find (here)[].
+**Note:** This was used as part of a YouTube tutorial I created which you can find [here](https://www.youtube.com/watch?v=iJFzm-ZzXRo).
